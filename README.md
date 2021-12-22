@@ -1,4 +1,4 @@
-## Gami API with Kafka, Spark, Hadoop, Hive, Apache Bench and Presto
+## Game API with Kafka, Spark, Hadoop, Hive, Apache Bench and Presto
 
 ### Hanan Sukenik
 
